@@ -16,7 +16,7 @@ I'm a **Data Science Engineering student** I’m passionate about using data to 
 
 ## 📊 Featured Projects
 [![](https://via.placeholder.com/300x150.png?text=Bike+Buyers+Analysis)](https://github.com/jsemorales/project1)  
-**[Project 1: Excel Sales Dashboard](https://github.com/jsemorales/project1)**  
+**[Excel Project Database1: Excel Sales Dashboard](https://github.com/jsemorales/project1)**  
 A comprehensive data analysis project using Excel to create dynamic dashboards.
 
 
