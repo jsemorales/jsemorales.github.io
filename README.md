@@ -14,6 +14,11 @@ I'm a **Data Science Engineering student** I’m passionate about using data to 
 - **SQL**: Basic queries, data manipulation, and joins
 - **Power BI**: Creating insightful dashboards and reports
 
+## 📊 Featured Projects
+[![](https://via.placeholder.com/300x150.png?text=Bike+Buyers+Analysis)](https://github.com/jsemorales/project1)  
+**[Project 1: Excel Sales Dashboard](https://github.com/jsemorales/project1)**  
+A comprehensive data analysis project using Excel to create dynamic dashboards.
+
 
 ## 📫 Let's Connect!
 - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/jose-david-morales-sánchez-757ab3199/)  
