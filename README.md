@@ -1,4 +1,4 @@
-# JseMoralesss.github.io
+# jsemorales.github.io
 # 👋 Hello! I'm Jose Morales
 
 ## 🎓 About Me
