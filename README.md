@@ -1,6 +1,8 @@
 # jsemorales.github.io
 # 👋 Hello! I'm Jose Morales
 
+<img src="https://github.com/jsemorales.png" alt="Your Name" width="200" /> 
+
 ## 🎓 About Me
 I'm a **Data Science Engineering student** I’m passionate about using data to streamline workflows and make informed decisions. I regularly work in Excel, creating pivot tables that simplify complex data and speed up analysis. I’m also building my skills in SQL and Power BI, which I use to improve data visualization. I love finding ways to make processes more efficient and uncovering insights that help our team make smarter, data-driven decisions.
 
