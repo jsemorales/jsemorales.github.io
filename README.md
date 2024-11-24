@@ -15,6 +15,7 @@ I'm a **Data Science Engineering student** I’m passionate about using data to 
 - **Excel**: Advanced functions, Pivot Tables and Charts
 - **SQL**: Basic queries, data manipulation, and joins
 - **Power BI**: Creating insightful dashboards and reports
+- **Python**: Data types and variables, control flow, basic functions
 
 ## 📊 Featured Projects
 [![](https://via.placeholder.com/text=Simple+Calculator)](https://github.com/jsemorales/simple-calculator) 
