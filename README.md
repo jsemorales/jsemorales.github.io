@@ -10,6 +10,7 @@ I'm a **Data Science Engineering student** I’m passionate about using data to 
 ![Excel Badge](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square) 
 ![SQL Badge](https://img.shields.io/badge/-SQL-CC2927?logo=Microsoft-SQL-Server&logoColor=white&style=flat-square) 
 ![Power BI Badge](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black&style=flat-square)
+![Python Badge](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 
 ### Tools and Technologies
 - **Excel**: Advanced functions, Pivot Tables and Charts
