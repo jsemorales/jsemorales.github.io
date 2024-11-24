@@ -17,6 +17,12 @@ I'm a **Data Science Engineering student** I’m passionate about using data to 
 - **Power BI**: Creating insightful dashboards and reports
 
 ## 📊 Featured Projects
+
+### 1. Python Data Analysis
+[![](https://via.placeholder.com/300x150.png?text=Python+Project)](https://github.com/jsemorales/python-project)  
+**[Python Simple Calculator](git clone https://github.com/jsemorales/simple-calculator.git)**  
+A basic calculator application built using Python that performs standard arithmetic operations: addition, subtraction, multiplication, and division. This project demonstrates fundamental programming concepts such as input handling, conditional statements, and error management.
+
 [![](https://via.placeholder.com/300x150.png?text=Bike+Buyers+Analysis)](https://github.com/jsemorales/ExcelProjectDatabase1)  
 **[Excel Project Database1: Excel Sales Dashboard](https://github.com/jsemorales/project1)**  
 A comprehensive data analysis project using Excel to create dynamic dashboards.
