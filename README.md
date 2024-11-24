@@ -23,9 +23,9 @@ I'm a **Data Science Engineering student** I’m passionate about using data to 
 **[Simple Calculator: A Python Arithmetic Tool](https://github.com/jsemorales/simple-calculator)**  
 A basic calculator application built using Python that performs standard arithmetic operations: addition, subtraction, multiplication, and division. This project demonstrates fundamental programming concepts such as input handling, conditional statements, and error management.
 
-[![](https://via.placeholder.com/text=Bike+Buyers+Analysis)](https://github.com/jsemorales/ExcelProjectDatabase1)  
-**[Excel Project Database1: Excel Sales Dashboard](https://github.com/jsemorales/project1)**  
-A comprehensive data analysis project using Excel to create dynamic dashboards.
+[![](https://via.placeholder.com/text=Excel+Project+Dataset1)](https://github.com/jsemorales/ExcelProjectDataset1)  
+**[Excel Project Dataset1: Sales Analysis Dashboard](https://github.com/jsemorales/ExcelProjectDataset1)**  
+A comprehensive Excel-based project that analyzes sales data and presents it through dynamic, interactive dashboards. The project demonstrates advanced Excel skills such as pivot tables, complex formulas, and data visualization to uncover actionable insights from raw data.
 
 
 ## 📫 Let's Connect!
